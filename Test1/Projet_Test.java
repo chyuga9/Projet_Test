@@ -7,6 +7,7 @@ package Projet_Test
 		
 		// Appartient au 2e commit
 		
+		// Focus sur cette classe
 	}
 	
 }
